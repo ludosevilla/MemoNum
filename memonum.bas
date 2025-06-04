@@ -189,7 +189,7 @@
 6920 locate 13-lc+yi,15: print c;chr$(30)
 6930 next yi 
 6940 for yi=1 to lc:play "s11o1l5g":for xi=1 to 400:next xi:next yi:play "s11o1l2a": for xi=1 to 400:next xi
-6950 line(110,180)-(256,192),3,bf:np=1
+6950 line(1,180)-(256,192),3,bf:np=1
 6970 return
 10000 SCREEN 3:COLOR 2,3,1:CLS
 10004 POKE P1,1:POKE ER(7)+1,5:POKE P2,dr(15):POKE P3,dr(16)
